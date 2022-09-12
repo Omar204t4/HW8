@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
@@ -65,3 +66,84 @@ footer {
   text-align: center;
   color: #1A71B8;
 }
+=======
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #F2F2F2;
+}
+
+.container {
+  width: 760px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+  background: white;
+  margin: 0px 14px;
+  padding: 16px;
+  color: #1A71B8;
+  font-size: 38px;
+}
+
+article {
+  background-color: white;
+  margin: 22px 10px;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  ;
+  font-size: 27px;
+}
+
+h4 {
+  font-family: Georgia, Times, serif;
+  display: block;
+  font-size: 13px;
+  color: #00CAC1;
+}
+
+p {
+  font-family: Georgia, Times, serif;
+  margin: 10px;
+  padding: 10px;
+}
+
+.up {
+  padding: 10px 14px;
+  border-bottom: solid 1px #eee;
+}
+
+.mid {
+  font-size: 18px;
+  padding: 10px 16px;
+  border-bottom: solid 1px #eee;
+}
+
+.donnu {
+  font-size: 12px;
+}
+
+footer {
+  text-align: center;
+  color: #1A71B8;
+}
+
+a:visited {
+  color: aqua;
+}
+
+a:hover {
+  background-color: black;
+}
+
+a:active {
+  color: #1A71B8;
+}
+>>>>>>> 4702d6efc84686432beaf2b5a8ccea23842f073c
